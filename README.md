@@ -46,6 +46,6 @@ pip install -r requirements.txt
 
 <h2>📸 Exemplos</h2>
 <p>Resultado da inferência:</p>
-<img src="yolov5/runs/detect/exp3/teste.jpg" alt="Exemplo de detecção" width="500">
+<img src="runs/detect/exp/teste.jpg" alt="Exemplo de detecção" width="500">
 
 
